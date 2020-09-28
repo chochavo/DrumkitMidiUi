@@ -440,9 +440,4 @@ class Drums:
 
 
 if __name__ == '__main__':
-    memuza_for_universitet = 70
-    slavas_memuza = 60
-    if memuza_for_universitet > slavas_memuza:
-        print("you stay home")
-    else:
-        print("you are krasavchick!")
+    drumkit_gui()
