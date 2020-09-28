@@ -1,0 +1,6 @@
+{
+	"drumNames":[ "kick", "snare", "hihat", "crash1", "crash2", "ride", "tomHigh", "tomMid", "tomLow", "hihatPedal"],
+	"drumPins":[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+	"drumNotes":[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+	"drumVelocities":[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+}
