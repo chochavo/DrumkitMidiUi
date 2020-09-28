@@ -1,0 +1,61 @@
+(ExpressProject "drumSch"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\drumsch.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("FTDI USB To Serial"
+      (FullPartName "FTDI USB To Serial.Normal")
+      (LibraryName
+         "D:\GOOGLE DRIVE\HOME PROJECTS\DRUMKIT MIDI\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON1
+      (FullPartName "CON1.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("Arduino Pro-Micro"
+      (FullPartName "Arduino Pro-Micro.Normal")
+      (LibraryName
+         "D:\GOOGLE DRIVE\HOME PROJECTS\DRUMKIT MIDI\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "MX")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" "Library" ".\library1.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
+        (Scroll "326 391")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\GOOGLE DRIVE\HOME PROJECTS\DRUMKIT MIDI\SCHEMATICS\DRUMSCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
